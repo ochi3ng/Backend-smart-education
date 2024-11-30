@@ -1,0 +1,27 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Environment
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Django migrations
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# VSCode settings
+.vscode/
+
+# Node modules
+node_modules/
